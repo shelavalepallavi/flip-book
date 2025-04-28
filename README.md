@@ -10,7 +10,6 @@ This website simulates the effect of flipping through the pages of a real book.
 - 📚 Realistic Page Flipping Animation
 - 🎨 Responsive Design for All Devices
 - 🖼️ Beautiful Dashboard with Interactive Icons
-- 🌙 Light and Dark Mode Toggle *(Optional Extension)*
 - 🔗 Smooth Navigation Across Pages
 
 ---
